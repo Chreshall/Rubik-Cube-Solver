@@ -1,0 +1,280 @@
+Python 2.7.12 (v2.7.12:d33e0cf91556, Jun 27 2016, 15:19:22) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============== RESTART: A:\C drive\expo\Code\Send_Cube_State.py ==============
+Yellow Face: 
+('y', 'y', 'y')
+('y', 'y', 'y')
+('w', 'w', 'w')
+White Face: 
+('y', 'y', 'y')
+('w', 'w', 'w')
+('w', 'w', 'w')
+Blue Face: 
+('b', 'b', 'b')
+('b', 'b', 'b')
+('b', 'b', 'b')
+Red Face: 
+('o', 'r', 'r')
+('o', 'r', 'r')
+('o', 'r', 'r')
+Green Face: 
+('g', 'g', 'g')
+('g', 'g', 'g')
+('g', 'g', 'g')
+Orange Face: 
+('o', 'o', 'r')
+('o', 'o', 'r')
+('o', 'o', 'r')
+sending cube string...
+('color sent: ', 'yyyyyywwwyyywwwwwworrorrorrbbbbbbbbbgggggggggoorooroor')
+y
+
+y
+
+y
+
+y
+
+String Accepted: d
+
+Parsing... yellow...
+
+white...
+
+red...
+
+blue...
+
+green...
+
+orange...
+
+
+
+Face: y
+
+|y|y|y|
+
+|y|y|y|
+
+|w|w|w|
+
+
+
+Face: w
+
+|y|y|y|
+
+|w|w|w|
+
+|w|w|w|
+
+
+
+Face: b
+
+|b|b|b|
+
+|b|b|b|
+
+|b|b|b|
+
+
+
+Face: r
+
+|o|r|r|
+
+|o|r|r|
+
+|o|r|r|
+
+
+
+Face: g
+
+|g|g|g|
+
+|g|g|g|
+
+|g|g|g|
+
+
+
+Face: o
+
+|o|o|r|
+
+|o|o|r|
+
+|o|o|r|
+
+Starting Now...
+
+Solving Cube: 
+
+
+
+Face: y
+
+|y|y|y|
+
+|y|y|y|
+
+|w|w|w|
+
+
+
+Face: w
+
+|y|y|y|
+
+|w|w|w|
+
+|w|w|w|
+
+
+
+Face: b
+
+|b|b|b|
+
+|b|b|b|
+
+|b|b|b|
+
+
+
+Face: r
+
+|o|r|r|
+
+|o|r|r|
+
+|o|r|r|
+
+
+
+Face: g
+
+|g|g|g|
+
+|g|g|g|
+
+|g|g|g|
+
+
+
+Face: o
+
+|o|o|r|
+
+|o|o|r|
+
+|o|o|r|
+
+
+
+
+
+Cross: D, D, 
+
+
+
+Cross: Solved.
+
+
+
+Whole Cross: Solved.
+
+
+
+Corners (First Layer): Solved.
+
+
+
+Edges (Second Layer): Solved.
+
+
+
+White Cross: Solved.
+
+
+
+White Face: Solved.
+
+
+
+OLL: Solved.
+
+
+
+PLL: Solved.
+
+
+
+The Whole Cube is solved!!!
+
+
+
+Face: y
+
+|y|y|y|
+
+|y|y|y|
+
+|y|y|y|
+
+
+
+Face: w
+
+|w|w|w|
+
+|w|w|w|
+
+|w|w|w|
+
+
+
+Face: b
+
+|b|b|b|
+
+|b|b|b|
+
+|b|b|b|
+
+
+
+Face: r
+
+|r|r|r|
+
+|r|r|r|
+
+|r|r|r|
+
+
+
+Face: g
+
+|g|g|g|
+
+|g|g|g|
+
+|g|g|g|
+
+
+
+Face: o
+
+|o|o|o|
+
+|o|o|o|
+
+|o|o|o|
+
+Done!
+
